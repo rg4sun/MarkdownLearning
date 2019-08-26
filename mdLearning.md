@@ -308,7 +308,11 @@ Github无法正确显示这里的Latex公式：
 解决方法：
 <http://www.wanguanglu.com/2016/07/18/github-markdown-equation/>
 
-我装了
+我装了Chrome的插件：
+![插件](插件.png)
+
+然后可以正确显示了：
+![公式](正确显示公式.png)
 
 
 注：本文档是R.G.学习Markdown时的练手，参照菜鸟教程[Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)。
