@@ -280,7 +280,7 @@ Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔�
 
 使用两个美元符 $$ 包裹 TeX 或 LaTeX 格式的数学公式来实现(即Latex数学公式的语法), 双$$$$居中公式，旦$$左对齐公式
 
-$\Gamma$、$\iota$、$\sigma$、$\phi$、$\upsilon$、$\Pi$、$\Bbbk$、$\heartsuit$、$\int$、$\oint$、$\cup$、$\cap$、$\in$、$\notin$、$\ni$、$\subset$、$\subseteq$、$\supset$、$\supseteq$、$\infty$
+$\Gamma$、$\iota$、$\sigma$、$\phi$、$\upsilon$、$\Pi$、$\heartsuit$、$\int$、$\oint$、$\cup$、$\cap$、$\in$、$\notin$、$\ni$、$\subset$、$\subseteq$、$\supset$、$\supseteq$、$\infty$
 
 $$\sqrt{3x-1}+\sqrt[5]{2y^5-4}$$
 
@@ -302,6 +302,14 @@ x(n-1)
 $$
 
 详细数学公式教程参见：[使用Markdown输出LaTex数学公式](https://www.jianshu.com/p/d9a5a1c694b4) 或者 直接看Latex数学公式即可
+
+Github无法正确显示这里的Latex公式：
+![公式显示错误](显示不了公式.png)  
+解决方法：
+<http://www.wanguanglu.com/2016/07/18/github-markdown-equation/>
+
+我装了
+
 
 注：本文档是R.G.学习Markdown时的练手，参照菜鸟教程[Markdown教程](https://www.runoob.com/markdown/md-tutorial.html)。
 
