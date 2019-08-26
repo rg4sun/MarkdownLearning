@@ -230,6 +230,6 @@ Markdown 图片语法格式如下：
 
 [2]: http://static.runoob.com/images/runoob-logo.png
 
-Markdown 还没有办法指定图片的高度与宽度，如果需要的话，可以使用普通的 < img > 标签：
+Markdown还没有办法指定图片的高度与宽度，如果需要的话，可以使用普通的 < img > 标签：
 
 <img src='R.G..jpg' width='60%'>
