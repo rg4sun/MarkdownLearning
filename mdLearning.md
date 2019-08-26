@@ -1,4 +1,5 @@
-# R.G. Markdown Learning (看文档源码快速学习Markdown语法)
+# R.G. Markdown Learning   
+# (看文档源码快速学习Markdown语法)
 
 ## Markdown标题的两种格式：
 
@@ -208,6 +209,27 @@ print('这是用```控制的代码区块')
 
 [菜鸟教程]: http://www.runoob.com/
 
+## Markdown图片
 
+Markdown 图片语法格式如下：
 
+开头一个感叹号 !
 
+接着一个方括号，里面放上图片的替代文字
+
+接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 'title' 属性的文字。
+
+![阿呀麦吖公众号](R.G..jpg)
+
+![汪星人](HAHA.jpg)
+
+也可以像网址链接那样对图片网址使用变量：
+
+这个链接用 2 作为网址变量 [RUNOOB][2].
+然后在文档的结尾位变量赋值（网址）
+
+[2]: http://static.runoob.com/images/runoob-logo.png
+
+Markdown 还没有办法指定图片的高度与宽度，如果需要的话，可以使用普通的 < img > 标签：
+
+<img src='R.G..jpg' width='60%'>
